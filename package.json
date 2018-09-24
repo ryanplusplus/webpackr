@@ -1,0 +1,21 @@
+{
+  "name": "webpackr",
+  "version": "1.0.0",
+  "description": "Runs a webpack configuration inside of a script instead of the CLI",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanplusplus/webpackr.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanplusplus/webpackr/issues"
+  },
+  "homepage": "https://github.com/ryanplusplus/webpackr#readme",
+  "peerDependencies": {
+    "webpack": "*"
+  }
+}
