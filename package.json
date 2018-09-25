@@ -1,6 +1,6 @@
 {
   "name": "webpackr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Runs a webpack configuration inside of a script instead of the CLI",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "url": "https://github.com/ryanplusplus/webpackr/issues"
   },
   "homepage": "https://github.com/ryanplusplus/webpackr#readme",
-  "peerDependencies": {
-    "webpack": "*"
+  "dependencies": {
+    "webpack": "^4.19.1"
   }
 }
